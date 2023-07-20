@@ -1,0 +1,15 @@
+
+
+
+.but {
+    border-radius: 5px;
+    padding: 7px 10px;
+    margin: 10px 0;
+    background: #ff9933;
+    border: 1px solid #ff9933 ;
+    color: black;
+}
+.but:hover {
+    transform: scale(1.1);
+    transition: .3s;
+}
